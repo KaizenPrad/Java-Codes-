@@ -1,6 +1,6 @@
 import java.util.Scanner; 
 
-public class sumofNnumber {
+public class CommissionPrecentage {
      public static void main(String[] args) {
           Scanner sc = new Scanner(System.in);
             System.out.print("Enter the Total Sale Amount : ");
