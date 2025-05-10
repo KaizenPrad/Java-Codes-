@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Build_Array_From_Permutatiosn",
+            "request": "launch",
+            "mainClass": "Build_Array_From_Permutatiosn",
+            "projectName": "Array_Codes_efa39517"
+        },
+        {
+            "type": "java",
+            "name": "Concatenate_Arrays",
+            "request": "launch",
+            "mainClass": "Concatenate_Arrays",
+            "projectName": "Array_Codes_efa39517"
+        },
+        {
+            "type": "java",
+            "name": "Greatest_Number_Candies",
+            "request": "launch",
+            "mainClass": "Greatest_Number_Candies",
+            "projectName": "Array_Codes_efa39517"
+        },
+        {
+            "type": "java",
+            "name": "Median_Of_Sorted_Array",
+            "request": "launch",
+            "mainClass": "Median_Of_Sorted_Array",
+            "projectName": "Array_Codes_efa39517"
+        },
+        {
+            "type": "java",
+            "name": "Number_Of_Good_Pair",
+            "request": "launch",
+            "mainClass": "Number_Of_Good_Pair",
+            "projectName": "Array_Codes_efa39517"
+        },
+        {
+            "type": "java",
+            "name": "Richest_customer_wealth",
+            "request": "launch",
+            "mainClass": "Richest_customer_wealth",
+            "projectName": "Array_Codes_efa39517"
+        },
+        {
+            "type": "java",
+            "name": "Smaller_Number_Counter",
+            "request": "launch",
+            "mainClass": "Smaller_Number_Counter",
+            "projectName": "Array_Codes_efa39517"
+        },
+        {
+            "type": "java",
+            "name": "Suffle_Array",
+            "request": "launch",
+            "mainClass": "Suffle_Array",
+            "projectName": "Array_Codes_efa39517"
+        },
+        {
+            "type": "java",
+            "name": "Sum_Of_Arrays_elements",
+            "request": "launch",
+            "mainClass": "Sum_Of_Arrays_elements",
+            "projectName": "Array_Codes_efa39517"
+        },
+        {
+            "type": "java",
+            "name": "two_Sum",
+            "request": "launch",
+            "mainClass": "two_Sum",
+            "projectName": "Array_Codes_efa39517"
+        }
+    ]
+}
